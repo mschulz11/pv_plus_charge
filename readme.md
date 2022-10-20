@@ -11,4 +11,6 @@ go-eCharger V2
 
 Kostal Plenticore plus 8.5
 * [Homepage Download](https://www.kostal-solar-electric.com/de-de/download/download/#Solar%20Inverter/PLENTICORE%20plus/Deutschland/Brosch%C3%BCre/)
+* [Kostal API Projekte](https://github.com/kilianknoll)
 * [Forum Auslesen Kostal](https://www.photovoltaikforum.com/thread/136824-rest-api-f%C3%BCr-kostal-pleticore-wechselrichter/)
+* [Kostal Plenticore Daten per skript über Modbus auslesen](https://www.photovoltaikforum.com/thread/127852-kostal-plenticore-daten-per-skript-%C3%BCber-modbus-auslesen/)
