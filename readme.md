@@ -8,6 +8,8 @@ go-eCharger V2
 * [Homepage](https://go-e.com/de-de)
 * [Netzbetreiber API](https://strapi-s3-bucket.s3.eu-central-1.amazonaws.com/go_e_Charger_API_Netzbetreiber_370def1df6.pdf)
 * [Github](https://github.com/goecharger/go-eCharger-API-v2)
+* [GitHub-Statuscodes](https://github.com/goecharger/go-eCharger-API-v2/blob/main/apikeys-de.md)
+* 
 
 Kostal Plenticore plus 8.5
 * [Homepage Download](https://www.kostal-solar-electric.com/de-de/download/download/#Solar%20Inverter/PLENTICORE%20plus/Deutschland/Brosch%C3%BCre/)

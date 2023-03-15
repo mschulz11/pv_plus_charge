@@ -1,0 +1,806 @@
+{
+    "alw": true,
+    "acu": 0,
+    "adi": false,
+    "dwo": null,
+    "tpa": 0,
+    "sse": "208885",
+    "eto": 8,
+    "wifis": [
+        {
+            "ssid": "WLAN Schulz",
+            "key": true,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        },
+        {
+            "ssid": "",
+            "key": false,
+            "useStaticIp": false,
+            "staticIp": "0.0.0.0",
+            "staticSubnet": "0.0.0.0",
+            "staticGateway": "0.0.0.0",
+            "useStaticDns": false,
+            "staticDns0": "0.0.0.0",
+            "staticDns1": "0.0.0.0",
+            "staticDns2": "0.0.0.0"
+        }
+    ],
+    "scan": [
+        {
+            "ssid": "WLAN Schulz Gaeste",
+            "encryptionType": 3,
+            "rssi": -46,
+            "channel": 1,
+            "bssid": "EA:DF:70:9E:27:55",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "WLAN Schulz",
+            "encryptionType": 3,
+            "rssi": -50,
+            "channel": 1,
+            "bssid": "E8:DF:70:9E:27:55",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "WLAN Schulz",
+            "encryptionType": 3,
+            "rssi": -52,
+            "channel": 1,
+            "bssid": "7C:FF:4D:EC:48:3E",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "WLAN Schulz Gaeste",
+            "encryptionType": 3,
+            "rssi": -52,
+            "channel": 1,
+            "bssid": "7E:FF:4D:EC:48:3E",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "FRITZ!Box 7580 PK",
+            "encryptionType": 3,
+            "rssi": -62,
+            "channel": 6,
+            "bssid": "E0:28:6D:90:D1:4A",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "Fritzpassauf7490",
+            "encryptionType": 3,
+            "rssi": -70,
+            "channel": 11,
+            "bssid": "2C:91:AB:F1:E2:F4",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "Fritzpassauf7490",
+            "encryptionType": 3,
+            "rssi": -73,
+            "channel": 11,
+            "bssid": "E0:28:6D:2A:C4:2E",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "LULAPICH-2G",
+            "encryptionType": 3,
+            "rssi": -74,
+            "channel": 1,
+            "bssid": "74:42:7F:4E:D1:D5",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "WLAN Schulz",
+            "encryptionType": 3,
+            "rssi": -75,
+            "channel": 1,
+            "bssid": "44:4E:6D:7A:82:14",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "WLAN Schulz Gaeste",
+            "encryptionType": 3,
+            "rssi": -76,
+            "channel": 1,
+            "bssid": "46:4E:6D:7A:82:14",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "FRITZ!Box 7362 SL",
+            "encryptionType": 3,
+            "rssi": -77,
+            "channel": 1,
+            "bssid": "1C:ED:6F:2A:1C:DE",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "lulapich",
+            "encryptionType": 3,
+            "rssi": -77,
+            "channel": 1,
+            "bssid": "76:42:7F:4E:D1:D5",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "merkur",
+            "encryptionType": 7,
+            "rssi": -80,
+            "channel": 1,
+            "bssid": "F2:B0:14:64:8F:CE",
+            "f": [
+                4,
+                4,
+                true,
+                true,
+                true,
+                false,
+                true,
+                false,
+                false,
+                "DE"
+            ]
+        },
+        {
+            "ssid": "...",
+            "encryptionType": 7,
+            "rssi": -82,
+            "channel": 1,
+            "bssid": "F0:B0:14:64:8F:CE",
+            "f": [
+                4,
+                4
+            ]
+        }
+    ],
+    "lwf": null,
+    "scaa": 7910,
+    "wst": 3,
+    "wsc": 0,
+    "wsm": "",
+    "wsms": 3,
+    "ccw": {
+        "ssid": "WLAN Schulz",
+        "encryptionType": 3,
+        "pairwiseCipher": 4,
+        "groupCipher": 4,
+        "b": true,
+        "g": true,
+        "n": true,
+        "lr": false,
+        "wps": false,
+        "ftmResponder": false,
+        "ftmInitiator": false,
+        "channel": 11,
+        "bssid": "E8:DF:70:9E:27:55",
+        "ip": "192.168.178.73",
+        "netmask": "255.255.255.0",
+        "gw": "192.168.178.1",
+        "ipv6": [
+            "FE80::C249:EFFF:FE2C:5780"
+        ],
+        "dns0": "192.168.178.1",
+        "dns1": "0.0.0.0",
+        "dns2": "0.0.0.0"
+    },
+    "wfb": null,
+    "wcb": "E8:DF:70:9E:27:55",
+    "wpb": [
+        "7C:FF:4D:EC:48:3E",
+        "44:4E:6D:7A:82:14"
+    ],
+    "nif": "st",
+    "dns": {
+        "dns": "0.0.0.0"
+    },
+    "host": "go-echarger_208885",
+    "rssi": -43,
+    "wda": false,
+    "tse": false,
+    "tsss": 0,
+    "tof": 60,
+    "tds": 1,
+    "utc": "2023-01-31T19:00:29.142",
+    "loc": "2023-01-31T20:00:29.143 +01:00",
+    "led": {
+        "id": 18,
+        "name": "Ready",
+        "norwayOverlay": true,
+        "modeOverlay": true,
+        "subtype": "renderCmds",
+        "ranges": [
+            {
+                "from": 0,
+                "to": 15,
+                "colors": [
+                    "#005BFF"
+                ]
+            },
+            {
+                "from": 16,
+                "to": 31,
+                "colors": [
+                    "#000000"
+                ]
+            }
+        ]
+    },
+    "lbr": 100,
+    "lmo": 3,
+    "ama": 16,
+    "clp": [
+        6,
+        10,
+        12,
+        14,
+        16
+    ],
+    "bac": 3,
+    "sdp": 2,
+    "lbp": 88955225,
+    "amp": 16,
+    "fna": "go-eCharger Garage",
+    "isgo": false,
+    "simo": true,
+    "aus": false,
+    "cid": "#005BFF",
+    "cwc": "#FFFF00",
+    "cch": "#FF0056",
+    "cfi": "#46FF00",
+    "ust": 0,
+    "lck": 0,
+    "sch_week": {
+        "control": 0,
+        "ranges": [
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            },
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ]
+    },
+    "sch_satur": {
+        "control": 0,
+        "ranges": [
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            },
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ]
+    },
+    "sch_sund": {
+        "control": 0,
+        "ranges": [
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            },
+            {
+                "begin": {
+                    "hour": 0,
+                    "minute": 0
+                },
+                "end": {
+                    "hour": 0,
+                    "minute": 0
+                }
+            }
+        ]
+    },
+    "nmo": false,
+    "fsp": false,
+    "acs": 0,
+    "frc": 0,
+    "rbc": 7,
+    "rbt": 254840260,
+    "car": 1,
+    "err": 0,
+    "cbl": 0,
+    "pha": [
+        false,
+        false,
+        false,
+        true,
+        true,
+        true
+    ],
+    "wh": 0,
+    "trx": null,
+    "fwv": "055.0",
+    "ccu": null,
+    "oem": "go-e",
+    "typ": "go-eCharger_V4",
+    "fwc": "0.0.1-47",
+    "ccrv": "0.0.1-47",
+    "lse": false,
+    "cdi": {
+        "type": 1,
+        "value": 0
+    },
+    "lccfi": null,
+    "lccfc": null,
+    "lcctc": null,
+    "tma": [
+        18,
+        13.5
+    ],
+    "amt": 32,
+    "nrg": [
+        225.99,
+        225.99,
+        227.23,
+        1.55,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ],
+    "modelStatus": 15,
+    "lmsc": 2407,
+    "mca": 6,
+    "awc": 1377,
+    "awp": 3,
+    "awcp": null,
+    "ido": null,
+    "frm": 1,
+    "fup": true,
+    "awe": true,
+    "fst": 1400,
+    "fmt": 300000,
+    "att": 21600,
+    "ate": 18000,
+    "ara": true,
+    "acp": true,
+    "cco": 18,
+    "esk": true,
+    "fzf": false,
+    "sh": 200,
+    "psh": 500,
+    "po": -300,
+    "zfo": 200,
+    "psmd": 10000,
+    "sumd": 5000,
+    "mpwst": 120000,
+    "mptwt": 600000,
+    "mmp": 0,
+    "tlf": false,
+    "tls": null,
+    "atp": null,
+    "lpsc": null,
+    "inva": null,
+    "pgrid": null,
+    "ppv": null,
+    "pakku": null,
+    "deltap": 0,
+    "pnp": 0,
+    "deltaa": 0,
+    "pvopt_averagePGrid": 0,
+    "pvopt_averagePPv": 0,
+    "pvopt_averagePAkku": 0,
+    "ct": "",
+    "mci": 0,
+    "mcpd": 0,
+    "mcpea": null,
+    "su": false,
+    "sua": false,
+    "var": 11,
+    "loe": false,
+    "log": "",
+    "lop": 50,
+    "lof": 0,
+    "map": [
+        1,
+        2,
+        3
+    ],
+    "upo": false,
+    "pwm": 0,
+    "lfspt": null,
+    "fsptws": null,
+    "spl3": 4200,
+    "psm": 2,
+    "ocu": [
+        "055.0",
+        "V 054.0 OUTDATED",
+        "V 054.11 OUTDATED",
+        "V 054.2 OUTDATED",
+        "V 054.3 OUTDATED",
+        "V 054.6 OUTDATED",
+        "V 054.7 OUTDATED"
+    ],
+    "cwe": true,
+    "clea": null,
+    "cle": null,
+    "cus": 1,
+    "ffb": 0,
+    "fhz": 49.983,
+    "loa": null,
+    "lot": {
+        "amp": 32,
+        "ts": 0
+    },
+    "loty": false,
+    "cards": [
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": true
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        },
+        {
+            "name": "n/a",
+            "energy": 0,
+            "cardId": false
+        }
+    ],
+    "men": false,
+    "msp": 502,
+    "msb": false,
+    "msr": true,
+    "data": "{\"i\":120,\"url\":\"https://data.v3.go-e.io/data_ng?e=Vai1nMvZC6Y55Red2O6j8zqIBi3mY9rnc098eib87buYlkcsoaymdE9f57JwWXV_87u9aXGU_nbcRF27jzAQHk_xEG9pqdk\"}",
+    "dll": "https://data.v3.go-e.io/export?e=6Gd8oRNtlbeFkz6w_S_Xn_Os4CVSwbmvrMRv2BvcrCkUrDyQ9xSGYTqWQBblP2TrtAw13hltpyFS",
+    "hai": true,
+    "hla": false,
+    "mce": false,
+    "mcu": "mqtt://username:password@mqtt-broker:1883",
+    "mcr": false,
+    "mtp": "go-eCharger/208885/",
+    "mqg": true,
+    "mqcn": false,
+    "mqss": false,
+    "mcs": false,
+    "mcc": false,
+    "mcca": null,
+    "mlr": null,
+    "mlra": null,
+    "ocppe": false,
+    "ocppu": "",
+    "ocppg": true,
+    "ocppcn": false,
+    "ocppss": false,
+    "ocpps": false,
+    "ocppc": false,
+    "ocppca": null,
+    "ocppa": false,
+    "ocppaa": null,
+    "ocppti": null,
+    "ocpph": 3600,
+    "ocppi": 0,
+    "ocppai": 0,
+    "ocppd": "no-card",
+    "ocppr": false,
+    "ocpplea": null,
+    "ocpple": null,
+    "ocpprl": false,
+    "rfe": null,
+    "lri": null,
+    "lrc": null,
+    "lrr": null,
+    "cmse": false,
+    "cmmr": 20,
+    "cms": "_go-e_controller",
+    "cmp": "_tcp",
+    "lcs": 0,
+    "csa": false,
+    "ctrls": null,
+    "ccd": null
+}
