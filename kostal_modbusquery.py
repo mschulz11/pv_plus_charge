@@ -466,7 +466,6 @@ if __name__ == "__main__":
         
                             
         MQTT_Active = 0
-
         if MQTT_Active == 1:
             try:
                 import paho.mqtt.client as mqtt
