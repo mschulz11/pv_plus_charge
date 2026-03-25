@@ -1,0 +1,12 @@
+[Unit]
+Description=PV Charge Controller Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/python3 /path/to/pv_charge_controller.py
+Restart=on-failure
+User=mschulz11
+
+[Install]
+WantedBy=multi-user.target
